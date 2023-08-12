@@ -14,4 +14,4 @@ The main challenge contained in this video is: background clutter, where the bac
 ### Results on Enshi
 https://github.com/KellySui/videos4sonar/assets/106424240/23957510-3485-4b5b-8e46-abaaada0d011
 
-The challenges included in this video are: scale variation, fake target and tugboat wake. The main reasons for the scale variation is the different angles of the AUV's motion to the sonar, which affects its appearance, false targets, which is also a common challenge in underwater environments, and tugboat wake, which are a special challenge unique to the characteristics of our experimental conditions.
+The challenges included in this video are: scale variation, fake target and tugboat wake. The main reasons for the scale variation is the different angles of the AUV's motion to the sonar, which affects its appearance, fake targets, which is also a common challenge in underwater environments, and tugboat wake, which are a special challenge unique to the characteristics of our experimental conditions.
