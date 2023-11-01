@@ -12,12 +12,14 @@ https://github.com/KellySui/L1-L2ARDCF/assets/106424240/604eede1-0fe1-4529-b794-
 
 The main challenge contained in this video is: background clutter, where the background noise in the sequence is highly influential, resulting in the AUV features not being visible.
 ### Results on Enshi1
-https://github.com/KellySui/videos4sonar/assets/106424240/23957510-3485-4b5b-8e46-abaaada0d011
+https://github.com/KellySui/L1-L2ARDCF/assets/106424240/01faa036-18b5-4021-a800-f7938a47e8df
 
 The challenges included in this video are: scale variation, fake target and tugboat wake. The main reasons for the scale variation is the different angles of the AUV's motion to the sonar, which affects its appearance, fake targets, which is also a common challenge in underwater environments, and tugboat wake, which are a special challenge unique to the characteristics of our experimental conditions.
 ### Results on Enshi2
-https://github.com/KellySui/videos4sonar/assets/106424240/23957510-3485-4b5b-8e46-abaaada0d011
+https://github.com/KellySui/L1-L2ARDCF/assets/106424240/d79e9b6b-c250-44ce-8ee6-9633bf2ec519
 
 The challenges included in this video are:
 ### Results on Enshi3
-https://github.com/KellySui/videos4sonar/blob/main/sonar4.avi
+https://github.com/KellySui/L1-L2ARDCF/assets/106424240/23473204-a9c0-4f9c-a232-7094e775f76c
+
+The challenges included in this video are:
