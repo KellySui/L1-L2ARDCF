@@ -18,8 +18,8 @@ The challenges included in this video are: scale variation, fake target and tugb
 ### Results on Enshi2
 https://github.com/KellySui/L1-L2ARDCF/assets/106424240/d79e9b6b-c250-44ce-8ee6-9633bf2ec519
 
-The challenges included in this video are:
+The challenges included in this video are: large-scale variation, disturbances with more similar characteristics to the target, and tugboat wake. And the movement of the target has more maneuverability compared to the previous three videos.
 ### Results on Enshi3
 https://github.com/KellySui/L1-L2ARDCF/assets/106424240/23473204-a9c0-4f9c-a232-7094e775f76c
 
-The challenges included in this video are:
+The challenges included in this video are: The target has a weak feature when it first enters the sonar's field of view, followed by a large variation, and is also interference by random rays during its motion。 When close to the sonar, as the platform is dynamic, it is also affected by the wake of the tugboat. The overall features are variable and unclear.
