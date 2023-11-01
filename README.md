@@ -1,7 +1,7 @@
 # Multibeam Forward-looking Sonar Video Object Tracking using Truncated L1-L2 Sparsity and Aberrances Repression Regularization
 ## Results on MFLS datasets
-![image](https://github.com/KellySui/L1-L2ARDCF/blob/main/results/OR.png)
-![image](https://github.com/KellySui/L1-L2ARDCF/blob/main/results/CLE.png)
+![image](https://github.com/KellySui/L1-L2ARDCF/blob/main/results/OR_new.png)
+![image](https://github.com/KellySui/L1-L2ARDCF/blob/main/results/CLE_new.png)
 ## Videos of L1-L2ARDCF_HC tracking results on the datasets
 ### Results on Qingxian
 https://github.com/KellySui/videos4sonar/assets/106424240/2a808256-a4c5-491d-8e46-2735e677087b
