@@ -4,11 +4,11 @@
 ![image](https://github.com/KellySui/L1-L2ARDCF/blob/main/results/CLE_new.png)
 ## Videos of L1-L2ARDCF_HC tracking results on the datasets
 ### Results on Qingxian
-https://github.com/KellySui/videos4sonar/assets/106424240/2a808256-a4c5-491d-8e46-2735e677087b
+https://github.com/KellySui/L1-L2ARDCF/assets/106424240/84ea66f1-4064-4e33-994f-ea1d8f818c19
 
 The challenges included in this video are: occlusion, random ray interference and ambiguous targets. L1-L2ARDCF is consistently more accurate in localising AUV.
 ### Results on Yellow Sea
-https://github.com/KellySui/videos4sonar/assets/106424240/1f2bd6e5-3e30-4c07-81b2-7de225dad399
+https://github.com/KellySui/L1-L2ARDCF/assets/106424240/604eede1-0fe1-4529-b794-343da1d943de
 
 The main challenge contained in this video is: background clutter, where the background noise in the sequence is highly influential, resulting in the AUV features not being visible.
 ### Results on Enshi1
