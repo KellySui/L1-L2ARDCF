@@ -26,12 +26,12 @@ The challenges included in this video are: The target has a weak feature when it
 
 ## Publication
 Please cite the above publication if you use the code or compare with the L1-L2ARDCF tracker in your work. Bibtex entry:
-@ARTICLE{Sui2024,
-  author={Sui, Xueqiong and Pan, Han and Jing, Zhongliang and Leung, Henry},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Multibeam Forward-Looking Sonar Video Object Tracking Using Truncated L1-L2 Sparsity and Aberrances Repression Regularization}, 
-  year={2024},
-  volume={9},
-  number={2},
-  pages={1122-1129},
+@ARTICLE{Sui2024,  
+  author={Sui, Xueqiong and Pan, Han and Jing, Zhongliang and Leung, Henry},  
+  journal={IEEE Robotics and Automation Letters},   
+  title={Multibeam Forward-Looking Sonar Video Object Tracking Using Truncated L1-L2 Sparsity and Aberrances Repression Regularization},   
+  year={2024},  
+  volume={9},  
+  number={2},  
+  pages={1122-1129},  
   doi={10.1109/LRA.2023.3342669}}
