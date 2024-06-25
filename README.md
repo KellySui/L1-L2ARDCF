@@ -25,7 +25,7 @@ https://github.com/KellySui/L1-L2ARDCF/assets/106424240/23473204-a9c0-4f9c-a232-
 The challenges included in this video are: The target has a weak feature when it first enters the sonar's field of view, followed by a large variation, and is also interference by random rays during its motion。 When close to the sonar, as the platform is dynamic, it is also affected by the wake of the tugboat. The overall features are variable and unclear.
 
 ## Publication
-Please cite the above publication if you use the code or compare with the L1-L2ARDCF tracker in your work. Bibtex entry:
+Please cite the above publication if you use the code or compare with the L1-L2ARDCF tracker in your work. Bibtex entry:  
 @ARTICLE{Sui2024,  
   author={Sui, Xueqiong and Pan, Han and Jing, Zhongliang and Leung, Henry},  
   journal={IEEE Robotics and Automation Letters},   
